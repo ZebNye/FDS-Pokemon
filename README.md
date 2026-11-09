@@ -1,2 +1,4 @@
 # FDS-Pokemon
-Team MSZ pokemon competition
+Team MSZ pokemon competition.
+
+
